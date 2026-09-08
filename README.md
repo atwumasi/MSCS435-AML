@@ -37,7 +37,7 @@ By the end of the course, students will be able to implement these architectures
 ├── schedule.md     week-by-week schedule
 ├── slides/         lecture slides, organized by week
 ├── homework/       paper homework sets
-├── notebooks/      starter notebooks (open directly in Colab)
+├── code/      starter notebooks (open directly in Colab)
 ├── projects/       project guidelines and checkpoint rubrics
 ├── resources/      textbooks, courses, and background reading
 └── assets/         logo and other site assets

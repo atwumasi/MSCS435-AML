@@ -60,4 +60,4 @@ In office (JHSW 234G) or via Teams — see the [syllabus](syllabus/MSCS_435_635_
 
 ---
 
-*This repository hosts public course materials only. Student submissions and grades are managed separately and are not stored here.*
+

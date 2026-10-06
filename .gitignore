@@ -8,3 +8,6 @@ _site/
 .jekyll-metadata
 code/L07/code/data/
 code/L07/code/mlp-softmax-pyscripts/data/
+code/L08/code/data/
+code/L09/data/
+code/L09/*.tar.gz
